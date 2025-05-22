@@ -51,29 +51,14 @@ cd breast-cancer-ml-classification
 
 ## Results
 
-### 🔹 Logistic Regression
-- **Accuracy**: 0.812  
-- **Balanced Accuracy**: 0.817  
-- **AUC**: 0.817  
-- **Sensitivity**: 0.800  
-- **Specificity**: 0.833  
-- **Kappa**: 0.613  
+### 📊 Model Performance Interpretation
 
-### 🔹 Random Forest
-- **Accuracy**: 0.562  
-- **Balanced Accuracy**: 0.583  
-- **AUC**: 0.583  
-- **Sensitivity**: 0.500  
-- **Specificity**: 0.667  
-- **Kappa**: 0.152  
+| Model              | Accuracy | Balanced Accuracy | AUC   | Kappa |
+|-------------------|----------|-------------------|-------|--------|
+| Logistic Regression | 81.2%    | 81.7%             | 0.817 | 0.613  |
+| SVM (RBF)           | 81.2%    | 81.7%             | 0.817 | 0.613  |
+| Random Forest       | 56.2%    | 58.3%             | 0.583 | 0.152  |
 
-### 🔹 SVM (RBF Kernel)
-- **Accuracy**: 0.812  
-- **Balanced Accuracy**: 0.817  
-- **AUC**: 0.817  
-- **Sensitivity**: 0.800  
-- **Specificity**: 0.833  
-- **Kappa**: 0.613  
 ---
 
 ## Author
