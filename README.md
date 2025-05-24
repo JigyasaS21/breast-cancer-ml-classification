@@ -34,7 +34,7 @@ These instructions will help you view the analysis, model evaluations, and visua
 Clone the repository and open the notebook or report directly:
 
 ```bash
-git clone https://github.com/your-username/breast-cancer-ml-classification.git
+git clone https://github.com/JigyasaS21/breast-cancer-ml-classification.git
 cd breast-cancer-ml-classification
 ```
 
